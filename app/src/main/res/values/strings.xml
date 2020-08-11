@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NativPlugins</string>
+    <string name="logo">logo</string>
+    <string-array name="options">
+        <item>Plugins</item>
+        <item>Design</item>
+        <item>Business</item>
+    </string-array>
+</resources>
